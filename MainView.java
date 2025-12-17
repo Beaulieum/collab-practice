@@ -3,5 +3,6 @@ class MainView extends BorderPane {
     System.out.println("Hi");
     Button btn = new button();
     System.out.print("Changes made");
+    int banana = 5;
     }
 }

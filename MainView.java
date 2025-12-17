@@ -1,6 +1,7 @@
-public class MainView extends BorderPane{
+class MainView extends BorderPane {
     MainView(){
-System.out.println("Hi");
-Button btn = new button();
+    System.out.println("Hi");
+    Button btn = new button();
+    System.out.print("Changes made");
     }
 }

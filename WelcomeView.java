@@ -5,5 +5,6 @@ class WelcomeView {
         System.out.println("More changes...");
         System.out.println("Testing again...");
         int apple = 2;
+        System.out.print("hi");
     }
 }
